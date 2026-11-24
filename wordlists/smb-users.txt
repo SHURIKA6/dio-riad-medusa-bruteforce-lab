@@ -1,0 +1,7 @@
+msfadmin
+user
+service
+tomcat
+sys
+klog
+postgres

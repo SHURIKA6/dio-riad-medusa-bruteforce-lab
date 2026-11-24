@@ -1,0 +1,10 @@
+msfadmin
+user
+postgres
+sys
+klog
+admin
+test
+guest
+administrator
+root
