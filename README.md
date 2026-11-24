@@ -516,7 +516,7 @@ Salve os prints em `images/` com estes nomes:
 
 ```bash
 # 1. Clonar
-git clone <URL-DO-REPO> dio-riad-medusa-bruteforce-lab
+git clone https://github.com/SHURIKA6/dio-riad-medusa-bruteforce-lab dio-riad-medusa-bruteforce-lab
 cd dio-riad-medusa-bruteforce-lab
 
 # 2. Subir VMs em host-only (Passo 1) e anotar IP do Meta2
@@ -558,8 +558,8 @@ smbclient -L //$TARGET -U msfadmin%msfadmin
 
 **riad**
 
-- GitHub: `https://github.com/SEU-USUARIO/riad` _(trocar pelo link real)_
-- DIO: `https://www.dio.me/users/SEU-USUARIO` _(trocar pelo perfil real)_
+- GitHub: `https://github.com/SHURIKA6/dio-riad-medusa-bruteforce-lab` _(trocar pelo link real)_
+- DIO: `https://www.dio.me/users/fernandoriaddasilvaribeiro` _(trocar pelo perfil real)_
 
 Desafio: **Ataque Brute Force com Medusa e Kali Linux** — DIO.
 
